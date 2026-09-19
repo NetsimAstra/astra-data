@@ -3,6 +3,9 @@ data/worldcover/
 *.tif
 *.tiff
 
+# Runtime state (e.g. live_payloads.db) — generated at runtime, not versioned
+runtime/
+
 # Python
 __pycache__/
 *.pyc
